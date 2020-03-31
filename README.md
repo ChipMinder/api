@@ -26,4 +26,4 @@ pip install foobar
 
 ```
 
-Please make sure to update the tests as appropriate.
+Copy the source code
